@@ -1,16 +1,95 @@
-## Hi there 👋
+# Hi 👋, I'm Rizki
 
-<!--
-**rizkiprats/rizkiprats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Game Developer (Programmer)**
+🤖 **AI / Machine Learning Engineer**
+🧠 Specialized in **Computer Vision** & **LLM RAG Systems**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a developer who builds systems at the intersection of **games, artificial intelligence, and intelligent data interaction**.
+
+* 🎮 Developing interactive games using Unity (C#)
+* 👁️ Building computer vision systems (Object Detection & Segmentation)
+* 🧠 Creating LLM-powered applications with RAG (Retrieval-Augmented Generation)
+* ⚙️ Designing backend systems for AI pipelines and data-driven applications
+
+---
+
+## 🧠 Core Expertise
+
+### 🎮 Game Development
+
+* Unity Engine (C#)
+* Gameplay Programming
+* Shader & Basic Graphics Optimization
+
+### 🤖 Computer Vision
+
+* Object Detection (YOLO)
+* Image Segmentation (U-Net, SAM)
+* Satellite Image Analysis
+
+### 🧠 LLM & RAG Systems
+
+* LangChain & Ollama
+* Text2SQL Systems
+* Document-based QA (PDF, Excel, Word)
+* Prompt Engineering
+
+### ⚙️ Backend & Tools
+
+* Python, Flask
+* PostgreSQL
+* Streamlit
+
+---
+
+## 🔥 Featured Projects
+
+### 🛰️ YOLO + SAM Satellite Detection
+
+Detection and segmentation pipeline for satellite imagery using YOLO and Segment Anything Model.
+
+### 🌊 U-Net River & Road Segmentation
+
+Deep learning model for segmenting rivers and roads from geospatial data.
+
+### 🎮 Hidden Nusantara
+
+Game project inspired by Indonesian culture with exploration and gameplay systems.
+
+### 🤖 LLM RAG Chatbot System *(in progress)*
+
+AI assistant capable of:
+
+* Text-to-SQL query generation
+* Document understanding
+* Context-aware responses
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU)
+
+---
+
+## 🎯 Current Focus
+
+* Scaling LLM + RAG systems for real-world applications
+* Improving AI model performance in computer vision tasks
+* Developing more polished and production-ready games
+
+---
+
+## 📫 Contact
+
+* Email: [your@email.com](mailto:your@email.com)
+
+---
+
+## ⚡ Philosophy
+
+> Build systems that are not only functional, but intelligent and impactful.
