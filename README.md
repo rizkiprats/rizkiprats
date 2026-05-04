@@ -60,36 +60,10 @@ Deep learning model for segmenting rivers and roads from geospatial data.
 
 Game project inspired by Indonesian culture with exploration and gameplay systems.
 
-### 🤖 LLM RAG Chatbot System *(in progress)*
+### 🤖 LLM RAG Chatbot System
 
 AI assistant capable of:
 
 * Text-to-SQL query generation
 * Document understanding
 * Context-aware responses
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU)
-
----
-
-## 🎯 Current Focus
-
-* Scaling LLM + RAG systems for real-world applications
-* Improving AI model performance in computer vision tasks
-* Developing more polished and production-ready games
-
----
-
-## 📫 Contact
-
-* Email: [your@email.com](mailto:your@email.com)
-
----
-
-## ⚡ Philosophy
-
-> Build systems that are not only functional, but intelligent and impactful.
