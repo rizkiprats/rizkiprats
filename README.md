@@ -17,35 +17,6 @@ I am a developer who builds systems at the intersection of **games, artificial i
 
 ---
 
-## 🧠 Core Expertise
-
-### 🎮 Game Development
-
-* Unity Engine (C#)
-* Gameplay Programming
-* Shader & Basic Graphics Optimization
-
-### 🤖 Computer Vision
-
-* Object Detection (YOLO)
-* Image Segmentation (U-Net, SAM)
-* Satellite Image Analysis
-
-### 🧠 LLM & RAG Systems
-
-* LangChain & Ollama
-* Text2SQL Systems
-* Document-based QA (PDF, Excel, Word)
-* Prompt Engineering
-
-### ⚙️ Backend & Tools
-
-* Python, Flask
-* PostgreSQL
-* Streamlit
-
----
-
 ## 🔥 Featured Projects
 
 ### 🛰️ YOLO + SAM Satellite Detection
