@@ -30,11 +30,3 @@ Deep learning model for segmenting rivers and roads from geospatial data.
 ### 🎮 Hidden Nusantara
 
 Game project inspired by Indonesian culture with exploration and gameplay systems.
-
-### 🤖 LLM RAG Chatbot System
-
-AI assistant capable of:
-
-* Text-to-SQL query generation
-* Document understanding
-* Context-aware responses
